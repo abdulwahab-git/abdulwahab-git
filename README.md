@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:00E5FF&height=260&section=header&text=Abdul%20Wahab%20Baig&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08001A,50:240046,100:9D4EDD&height=260&section=header&text=Abdul%20Wahab%20Baig&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Software Engineer • Computer Vision Researcher • AI Enthusiast
+  Software Engineer • Computer Vision Researcher
 </p>
 
 <h3 align="center">
