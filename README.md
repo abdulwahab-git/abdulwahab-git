@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Abdul Wahab Baig 👋</h1>
 
-<h3 align="center">Machine Learning Intern @ FlyRank AI | Software Engineer | CS Student at Iqra University</h3>
+<h3 align="center">Machine Learning Intern @ FlyRank AI | Software Engineer | Computer Vision Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+efficient%2C+data-driven+systems;Python+%7C+Machine+Learning+%7C+Computer+Vision;Currently+interning+at+FlyRank+AI;Always+open+to+collaborate+on+cool+projects!" alt="Typing SVG" />
@@ -87,9 +87,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahab-git&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulwahab-git&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=abdulwahab-git&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4"
+  alt="GitHub Trophies"
+/>
+
+</div>
 
 ---
 
