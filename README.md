@@ -1,6 +1,10 @@
-<h1 align="center">Hi there, I'm Abdul Wahab Baig 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9E4F43,100:35102F&height=250&section=header&text=Abdul%20Wahab%20Baig&fontSize=55&fontColor=FFF0B5&fontAlignY=50" />
+</p>
 
-<h3 align="center">Machine Learning Intern @ FlyRank AI | Software Engineer | Computer Vision Researcher</h3>
+<h3 align="center">
+  Machine Learning Intern @ FlyRank AI | Software Engineer | Computer Vision Researcher
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+efficient%2C+data-driven+systems;Python+%7C+Machine+Learning+%7C+Computer+Vision;Currently+interning+at+FlyRank+AI;Always+open+to+collaborate+on+cool+projects!" alt="Typing SVG" />
