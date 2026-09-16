@@ -16,12 +16,12 @@
 
 ### 💫 About Me
 
-- 🔭 Currently working as a **Machine Learning Intern** at **FlyRank AI**, Islamabad
+- 🔭 Currently working as a **Machine Learning Intern** at **FlyRank AI**
 - 🎓 Pursuing a **BS in Computer Science** at **Iqra University** (2023 – 2027)
-- 💡 Core strengths in **SQL, MySQL, backend systems**, and building structured, efficient solutions
-- 🌱 Actively deepening my skills in **Python** and **Machine Learning / Computer Vision**
+- 💡 Core strengths in **Flutter, Python, MySQL, backend systems**, and building structured, efficient solutions
+- 🌱 Actively deepening my skills in **Data Visualization** and **Machine Learning / Computer Vision**
 - 🤝 Open to **internships, entry-level SWE/backend roles**, and collaboration on interesting projects
-- 💬 Ask me about **backend development, databases, Python, or ML fundamentals**
+- 💬 Ask me about **Debugging for 3 hours just to find a missing semicolon 😭**
 - ⚡ Fun fact: I enjoy turning messy real-world problems into clean, structured systems
 
 ---
@@ -93,20 +93,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-> _Pin your best repositories on GitHub and they'll show up automatically here — or list your top picks manually below._
-
-<p align="center">
-  <a href="https://github.com/abdulwahab-git?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulwahab-git&repo=REPLACE_WITH_REPO_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/abdulwahab-git?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulwahab-git&repo=REPLACE_WITH_REPO_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
 
 ### 📈 Profile Views
 
