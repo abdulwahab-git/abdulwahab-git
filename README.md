@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08001A,50:240046,100:9D4EDD&height=260&section=header&text=Abdul%20Wahab%20Baig&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" />
-</p>
-
-<h3 align="center">
-  Machine Learning Intern @ FlyRank AI
-</h3>
-
-<p align="center">
-  Software Engineer • Computer Vision Researcher
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,50:0D47A1,100:00E5FF&height=340&section=header&text=Abdul%20Wahab%20Baig&fontSize=48&fontColor=FFFFFF&fontAlignY=48&animation=fadeIn" />
 </p>
 
 <h3 align="center">
