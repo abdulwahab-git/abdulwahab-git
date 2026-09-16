@@ -87,21 +87,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahab-git&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahab-git&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=abdulwahab-git&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
 ---
 
 
